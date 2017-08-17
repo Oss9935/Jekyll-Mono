@@ -5,7 +5,7 @@ author: BBKim
 ---
 
 github 검색 팁
-github에서 star, fork 조건을 만족하는 레포지토리 찾기 
+github에서 star, fork 조건 등을 만족하는 레포지토리 찾기 
 
 
 ## 검색 꿀팁
@@ -18,13 +18,9 @@ github 자체적으로 검색 키워드를 지원한다는것을 알게되었습
 아래의 링크에서 자세한 검색 방법들을 찾아볼 수 있는데
 일단 여러 검색 키워드 중 자주 쓸만한 검색 키워드들을 몇개 뽑아 보았습니다. 
 <https://help.github.com/articles/searching-repositories/>
-
-
 1. fork 수 기반 검색
 - forks:5 matches repositories with only five forks.
-
 - forks:>=205 matches repositories with at least 205 forks.
-
 - forks:10..20 matches repositories with 10 to 20 forks.
 
 2. 토픽 기반 검색
@@ -32,6 +28,5 @@ github 자체적으로 검색 키워드를 지원한다는것을 알게되었습
 
 3. star 기반 검색
 - stars:10..20 matches repositories 10 to 20 stars, that are smaller than 1000 KB.
-
 - stars:>=500 fork:true language:php matches repositories with the at least 500 stars, including forked ones, that are written in PHP.
 
