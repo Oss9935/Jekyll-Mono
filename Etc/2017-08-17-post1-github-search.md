@@ -2,7 +2,6 @@
 layout: post
 title: github 레포지토리 검색 팁
 author: BBKim
-categories: [Etc]
 ---
 
 [github 검색 팁] : github에서 star, fork 조건 등을 만족하는 레포지토리 찾기 
