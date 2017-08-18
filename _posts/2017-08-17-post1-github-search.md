@@ -25,8 +25,8 @@ github 자체적으로 검색 키워드를 지원한다는것을 알게되었습
 > - forks:10..20 matches repositories with 10 to 20 forks.
 
 2. 토픽 기반 검색
-- topic:TOPIC	topic:jekyll matches repositories that have been classified with the topic "jekyll."
+> - topic:TOPIC	topic:jekyll matches repositories that have been classified with the topic "jekyll."
 
 3. star 기반 검색
-- stars:10..20 matches repositories 10 to 20 stars, that are smaller than 1000 KB.
-- stars:>=500 fork:true language:php matches repositories with the at least 500 stars, including forked ones, that are written in PHP.
+> - stars:10..20 matches repositories 10 to 20 stars, that are smaller than 1000 KB.
+> - stars:>=500 fork:true language:php matches repositories with the at least 500 stars, including forked ones, that are written in PHP.
